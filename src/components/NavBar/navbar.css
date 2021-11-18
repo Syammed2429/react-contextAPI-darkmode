@@ -1,0 +1,5 @@
+.navbar {
+  background: #282c34;
+  display: flex;
+  justify-content: flex-end;
+}
